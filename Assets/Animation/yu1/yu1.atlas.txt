@@ -1,0 +1,20 @@
+
+yu1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sheng2
+  rotate: true
+  xy: 2, 2
+  size: 78, 314
+  orig: 235, 314
+  offset: 0, 0
+  index: -1
+yu3
+  rotate: false
+  xy: 2, 82
+  size: 431, 170
+  orig: 431, 170
+  offset: 0, 0
+  index: -1

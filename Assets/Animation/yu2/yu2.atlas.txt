@@ -1,0 +1,20 @@
+
+yu2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sheng1
+  rotate: false
+  xy: 427, 52
+  size: 132, 143
+  orig: 132, 143
+  offset: 0, 0
+  index: -1
+yu2
+  rotate: false
+  xy: 2, 2
+  size: 423, 193
+  orig: 423, 193
+  offset: 0, 0
+  index: -1
